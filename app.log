@@ -1,0 +1,548 @@
+2025-05-06 21:34:22,281 - main - INFO - TFLite model loaded successfully
+2025-05-06 21:34:22,283 - main - INFO - Gemini model initialized successfully
+2025-05-06 21:34:22,297 - main - INFO - Database initialized
+2025-05-06 21:35:35,485 - main - INFO - TFLite model loaded successfully
+2025-05-06 21:35:35,491 - main - INFO - Gemini model initialized successfully
+2025-05-06 21:35:35,495 - main - INFO - Database initialized
+2025-05-06 21:36:10,216 - main - INFO - No EXIF data found in image
+2025-05-06 21:36:10,217 - main - INFO - Using default coordinates (Bangalore)
+2025-05-06 21:36:10,217 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-06 21:36:11,367 - main - WARNING - Weather API returned status code 401
+2025-05-06 21:36:11,405 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-06 21:36:11,409 - main - INFO - Requesting recommendations from Gemini
+2025-05-06 21:36:17,533 - main - INFO - Got 6 plant recommendations from Gemini
+2025-05-06 21:36:17,533 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:36:18,923 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:18,925 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:36:20,761 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:36:20,763 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:36:22,010 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:22,012 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:36:24,379 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:36:24,381 - main - INFO - Fetching image for plant: **Oleander ( *Nerium oleander*)
+2025-05-06 21:36:25,300 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:25,302 - main - INFO - Using Unsplash fallback API for plant: **Oleander ( *Nerium oleander*)
+2025-05-06 21:36:27,329 - main - INFO - Found Unsplash image for **Oleander ( *Nerium oleander*)
+2025-05-06 21:36:27,331 - main - INFO - Fetching image for plant: **Geranium ( *Pelargonium* spp.)
+2025-05-06 21:36:28,355 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:28,357 - main - INFO - Using Unsplash fallback API for plant: **Geranium ( *Pelargonium* spp.)
+2025-05-06 21:36:29,943 - main - INFO - Found Unsplash image for **Geranium ( *Pelargonium* spp.)
+2025-05-06 21:36:29,945 - main - INFO - Fetching image for plant: ** Bougainvillea ( *Bougainvillea* spp.)
+2025-05-06 21:36:46,196 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:46,198 - main - INFO - Using Unsplash fallback API for plant: ** Bougainvillea ( *Bougainvillea* spp.)
+2025-05-06 21:36:55,643 - main - INFO - Found Unsplash image for ** Bougainvillea ( *Bougainvillea* spp.)
+2025-05-06 21:36:55,645 - main - INFO - Fetching image for plant: **Lantana ( *Lantana camara*)
+2025-05-06 21:36:56,863 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:36:56,865 - main - INFO - Using Unsplash fallback API for plant: **Lantana ( *Lantana camara*)
+2025-05-06 21:36:58,889 - main - INFO - Found Unsplash image for **Lantana ( *Lantana camara*)
+2025-05-06 21:37:03,600 - main - INFO - Successfully generated 6 plant suggestions
+2025-05-06 21:55:31,143 - main - INFO - No EXIF data found in image
+2025-05-06 21:55:31,144 - main - INFO - Using default coordinates (Bangalore)
+2025-05-06 21:55:31,144 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-06 21:55:31,639 - main - WARNING - Weather API returned status code 401
+2025-05-06 21:55:31,639 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-06 21:55:31,640 - main - INFO - Requesting recommendations from Gemini
+2025-05-06 21:55:38,154 - main - INFO - Got 8 plant recommendations from Gemini
+2025-05-06 21:55:38,154 - main - INFO - Fetching image for plant: **Lavender** (*Lavandula angustifolia*)
+2025-05-06 21:55:39,614 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:39,616 - main - INFO - Using Unsplash fallback API for plant: **Lavender** (*Lavandula angustifolia*)
+2025-05-06 21:55:41,518 - main - INFO - Found Unsplash image for **Lavender** (*Lavandula angustifolia*)
+2025-05-06 21:55:41,519 - main - INFO - Fetching image for plant: **Rosemary** (*Salvia rosmarinus*)
+2025-05-06 21:55:42,112 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:42,114 - main - INFO - Using Unsplash fallback API for plant: **Rosemary** (*Salvia rosmarinus*)
+2025-05-06 21:55:43,361 - main - INFO - Found Unsplash image for **Rosemary** (*Salvia rosmarinus*)
+2025-05-06 21:55:43,363 - main - INFO - Fetching image for plant: **Geranium** (*Pelargonium × hortorum*)
+2025-05-06 21:55:44,172 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:44,174 - main - INFO - Using Unsplash fallback API for plant: **Geranium** (*Pelargonium × hortorum*)
+2025-05-06 21:55:45,835 - main - INFO - Found Unsplash image for **Geranium** (*Pelargonium × hortorum*)
+2025-05-06 21:55:45,837 - main - INFO - Fetching image for plant: **Oleander** (*Nerium oleander*)
+2025-05-06 21:55:46,456 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:46,457 - main - INFO - Using Unsplash fallback API for plant: **Oleander** (*Nerium oleander*)
+2025-05-06 21:55:47,480 - main - INFO - Found Unsplash image for **Oleander** (*Nerium oleander*)
+2025-05-06 21:55:47,482 - main - INFO - Fetching image for plant: **Clivia** (*Clivia miniata*)
+2025-05-06 21:55:48,072 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:48,073 - main - INFO - Using Unsplash fallback API for plant: **Clivia** (*Clivia miniata*)
+2025-05-06 21:55:49,150 - main - INFO - Found Unsplash image for **Clivia** (*Clivia miniata*)
+2025-05-06 21:55:49,151 - main - INFO - Fetching image for plant: **Fuchsia** (*Fuchsia* spp.)
+2025-05-06 21:55:50,026 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:50,027 - main - INFO - Using Unsplash fallback API for plant: **Fuchsia** (*Fuchsia* spp.)
+2025-05-06 21:55:51,092 - main - INFO - Found Unsplash image for **Fuchsia** (*Fuchsia* spp.)
+2025-05-06 21:55:51,093 - main - INFO - Fetching image for plant: **Potted Citrus Tree (e.g., Lemon or Lime)**
+2025-05-06 21:55:52,165 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:52,167 - main - INFO - Using Unsplash fallback API for plant: **Potted Citrus Tree (e.g., Lemon or Lime)**
+2025-05-06 21:55:53,725 - main - INFO - Found Unsplash image for **Potted Citrus Tree (e.g., Lemon or Lime)**
+2025-05-06 21:55:53,727 - main - INFO - Fetching image for plant: **Hydrangea** (*Hydrangea macrophylla*)
+2025-05-06 21:55:54,635 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:55:54,636 - main - INFO - Using Unsplash fallback API for plant: **Hydrangea** (*Hydrangea macrophylla*)
+2025-05-06 21:55:55,891 - main - INFO - Found Unsplash image for **Hydrangea** (*Hydrangea macrophylla*)
+2025-05-06 21:55:59,456 - main - INFO - Successfully generated 8 plant suggestions
+2025-05-06 21:58:57,209 - main - INFO - No EXIF data found in image
+2025-05-06 21:58:57,210 - main - INFO - Using default coordinates (Bangalore)
+2025-05-06 21:58:57,210 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-06 21:58:57,685 - main - WARNING - Weather API returned status code 401
+2025-05-06 21:58:57,686 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-06 21:58:57,688 - main - INFO - Requesting recommendations from Gemini
+2025-05-06 21:59:02,277 - main - INFO - Got 5 plant recommendations from Gemini
+2025-05-06 21:59:02,277 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:59:03,062 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:59:03,064 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:59:03,504 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)
+2025-05-06 21:59:03,506 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:59:04,347 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:59:04,349 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:59:05,154 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 21:59:05,155 - main - INFO - Fetching image for plant: **Geranium ( *Pelargonium* spp.
+2025-05-06 21:59:05,893 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:59:05,895 - main - INFO - Using Unsplash fallback API for plant: **Geranium ( *Pelargonium* spp.
+2025-05-06 21:59:07,848 - main - INFO - Found Unsplash image for **Geranium ( *Pelargonium* spp.
+2025-05-06 21:59:07,849 - main - INFO - Fetching image for plant: **Oleander (*Nerium oleander*)
+2025-05-06 21:59:08,725 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:59:08,727 - main - INFO - Using Unsplash fallback API for plant: **Oleander (*Nerium oleander*)
+2025-05-06 21:59:10,036 - main - INFO - Found Unsplash image for **Oleander (*Nerium oleander*)
+2025-05-06 21:59:10,037 - main - INFO - Fetching image for plant: **Fuchsia (*Fuchsia* spp.)
+2025-05-06 21:59:10,841 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 21:59:10,843 - main - INFO - Using Unsplash fallback API for plant: **Fuchsia (*Fuchsia* spp.)
+2025-05-06 21:59:11,945 - main - INFO - Found Unsplash image for **Fuchsia (*Fuchsia* spp.)
+2025-05-06 21:59:15,695 - main - INFO - Successfully generated 5 plant suggestions
+2025-05-06 23:03:51,029 - main - INFO - TFLite model loaded successfully
+2025-05-06 23:03:51,031 - main - INFO - Gemini model initialized successfully
+2025-05-06 23:03:51,056 - main - INFO - Database initialized
+2025-05-06 23:03:52,773 - main - INFO - No EXIF data found in image
+2025-05-06 23:03:52,773 - main - INFO - Using default coordinates (Bangalore)
+2025-05-06 23:03:52,774 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-06 23:03:53,361 - main - WARNING - Weather API returned status code 401
+2025-05-06 23:03:53,362 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-06 23:03:53,366 - main - INFO - Requesting recommendations from Gemini
+2025-05-06 23:03:59,675 - main - INFO - Got 7 plant recommendations from Gemini
+2025-05-06 23:03:59,676 - main - INFO - Fetching image for plant: **Olive Tree ( *Olea europaea*)
+2025-05-06 23:04:00,488 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:00,490 - main - INFO - Using Unsplash fallback API for plant: **Olive Tree ( *Olea europaea*)
+2025-05-06 23:04:01,959 - main - INFO - Found Unsplash image for **Olive Tree ( *Olea europaea*)
+2025-05-06 23:04:01,961 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 23:04:02,489 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:02,490 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-06 23:04:02,716 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)
+2025-05-06 23:04:02,720 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 23:04:03,368 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:03,369 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 23:04:03,577 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)
+2025-05-06 23:04:03,580 - main - INFO - Fetching image for plant: **Potted Bougainvillea ( *Bougainvillea glabra* or similar species)
+2025-05-06 23:04:04,190 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:04,192 - main - INFO - Using Unsplash fallback API for plant: **Potted Bougainvillea ( *Bougainvillea glabra* or similar species)
+2025-05-06 23:04:05,217 - main - INFO - Found Unsplash image for **Potted Bougainvillea ( *Bougainvillea glabra* or similar species)
+2025-05-06 23:04:05,218 - main - INFO - Fetching image for plant: **Lemon Tree ( *Citrus limon*)
+2025-05-06 23:04:05,728 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:05,730 - main - INFO - Using Unsplash fallback API for plant: **Lemon Tree ( *Citrus limon*)
+2025-05-06 23:04:06,875 - main - INFO - Found Unsplash image for **Lemon Tree ( *Citrus limon*)
+2025-05-06 23:04:06,877 - main - INFO - Fetching image for plant: **Oleander ( *Nerium oleander*)
+2025-05-06 23:04:07,462 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:07,465 - main - INFO - Using Unsplash fallback API for plant: **Oleander ( *Nerium oleander*)
+2025-05-06 23:04:07,793 - main - INFO - Found Unsplash image for **Oleander ( *Nerium oleander*)
+2025-05-06 23:04:07,795 - main - INFO - Fetching image for plant: **Clivia ( *Clivia miniata*)
+2025-05-06 23:04:08,542 - main - ERROR - SerpAPI returned status code 401
+2025-05-06 23:04:08,543 - main - INFO - Using Unsplash fallback API for plant: **Clivia ( *Clivia miniata*)
+2025-05-06 23:04:09,514 - main - INFO - Found Unsplash image for **Clivia ( *Clivia miniata*)
+2025-05-06 23:04:13,209 - main - INFO - Successfully generated 7 plant suggestions
+2025-05-07 01:04:41,991 - main - INFO - No EXIF data found in image
+2025-05-07 01:04:41,997 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 01:04:41,998 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 01:04:42,256 - main - WARNING - Weather API returned status code 401
+2025-05-07 01:04:42,256 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 01:04:42,261 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 01:04:47,916 - main - INFO - Got 6 plant recommendations from Gemini
+2025-05-07 01:04:47,916 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:04:48,761 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:48,775 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:04:49,694 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:04:49,695 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:04:50,038 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:50,039 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:04:50,830 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:04:50,832 - main - INFO - Fetching image for plant: **Oleander (*Nerium oleander*)**
+2025-05-07 01:04:51,182 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:51,183 - main - INFO - Using Unsplash fallback API for plant: **Oleander (*Nerium oleander*)**
+2025-05-07 01:04:51,906 - main - INFO - Found Unsplash image for **Oleander (*Nerium oleander*)**
+2025-05-07 01:04:51,907 - main - INFO - Fetching image for plant: **Geranium (*Pelargonium* spp.)**
+2025-05-07 01:04:52,247 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:52,249 - main - INFO - Using Unsplash fallback API for plant: **Geranium (*Pelargonium* spp.)**
+2025-05-07 01:04:53,069 - main - INFO - Found Unsplash image for **Geranium (*Pelargonium* spp.)**
+2025-05-07 01:04:53,070 - main - INFO - Fetching image for plant: **Succulent arrangement (various *Sedum*, *Echeveria*, etc.)**
+2025-05-07 01:04:53,431 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:53,443 - main - INFO - Using Unsplash fallback API for plant: **Succulent arrangement (various *Sedum*, *Echeveria*, etc.)**
+2025-05-07 01:04:54,233 - main - INFO - Found Unsplash image for **Succulent arrangement (various *Sedum*, *Echeveria*, etc.)**
+2025-05-07 01:04:54,234 - main - INFO - Fetching image for plant: ** Bougainvillea (*Bougainvillea* spp.)**
+2025-05-07 01:04:54,635 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:04:54,636 - main - INFO - Using Unsplash fallback API for plant: ** Bougainvillea (*Bougainvillea* spp.)**
+2025-05-07 01:04:55,377 - main - INFO - Found Unsplash image for ** Bougainvillea (*Bougainvillea* spp.)**
+2025-05-07 01:04:58,609 - main - INFO - Successfully generated 6 plant suggestions
+2025-05-07 01:28:55,150 - main - INFO - No EXIF data found in image
+2025-05-07 01:28:55,151 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 01:28:55,152 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 01:28:55,466 - main - WARNING - Weather API returned status code 401
+2025-05-07 01:28:55,467 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 01:28:55,471 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 01:29:01,375 - main - INFO - Got 5 plant recommendations from Gemini
+2025-05-07 01:29:01,375 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:29:02,038 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:29:02,039 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:29:02,305 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)**
+2025-05-07 01:29:02,306 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:29:02,842 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:29:02,843 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:29:03,059 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)**
+2025-05-07 01:29:03,060 - main - INFO - Fetching image for plant: **Geranium ( *Pelargonium* spp.)**
+2025-05-07 01:29:03,538 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:29:03,539 - main - INFO - Using Unsplash fallback API for plant: **Geranium ( *Pelargonium* spp.)**
+2025-05-07 01:29:04,425 - main - INFO - Found Unsplash image for **Geranium ( *Pelargonium* spp.)**
+2025-05-07 01:29:04,426 - main - INFO - Fetching image for plant: **Sedum ( *Sedum spp.*)
+2025-05-07 01:29:04,928 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:29:04,929 - main - INFO - Using Unsplash fallback API for plant: **Sedum ( *Sedum spp.*)
+2025-05-07 01:29:05,766 - main - INFO - Found Unsplash image for **Sedum ( *Sedum spp.*)
+2025-05-07 01:29:05,767 - main - INFO - Fetching image for plant: **Oleander ( *Nerium oleander*)**
+2025-05-07 01:29:06,283 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 01:29:06,286 - main - INFO - Using Unsplash fallback API for plant: **Oleander ( *Nerium oleander*)**
+2025-05-07 01:29:07,201 - main - INFO - Found Unsplash image for **Oleander ( *Nerium oleander*)**
+2025-05-07 01:29:10,640 - main - INFO - Successfully generated 5 plant suggestions
+2025-05-07 02:17:57,336 - main - INFO - TFLite model loaded successfully
+2025-05-07 02:17:57,338 - main - INFO - Gemini model initialized successfully
+2025-05-07 02:17:57,349 - main - INFO - Database initialized
+2025-05-07 03:30:22,278 - main - INFO - TFLite model loaded successfully
+2025-05-07 03:30:22,279 - main - INFO - Gemini model initialized successfully
+2025-05-07 03:30:22,284 - main - INFO - Database initialized
+2025-05-07 03:31:25,554 - main - INFO - No EXIF data found in image
+2025-05-07 03:31:25,554 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 03:31:25,554 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 03:31:25,836 - main - WARNING - Weather API returned status code 401
+2025-05-07 03:31:25,837 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 03:31:25,839 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 03:31:30,373 - main - INFO - Got 5 plant recommendations from Gemini
+2025-05-07 03:31:30,373 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 03:31:31,186 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 03:31:31,187 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 03:31:31,396 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)
+2025-05-07 03:31:31,397 - main - INFO - Fetching image for plant: **Rosemary (*Salvia rosmarinus*)
+2025-05-07 03:31:31,872 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 03:31:31,873 - main - INFO - Using Unsplash fallback API for plant: **Rosemary (*Salvia rosmarinus*)
+2025-05-07 03:31:32,700 - main - INFO - Found Unsplash image for **Rosemary (*Salvia rosmarinus*)
+2025-05-07 03:31:32,701 - main - INFO - Fetching image for plant: **Geranium (*Pelargonium* spp.)
+2025-05-07 03:31:33,174 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 03:31:33,176 - main - INFO - Using Unsplash fallback API for plant: **Geranium (*Pelargonium* spp.)
+2025-05-07 03:31:33,991 - main - INFO - Found Unsplash image for **Geranium (*Pelargonium* spp.)
+2025-05-07 03:31:33,992 - main - INFO - Fetching image for plant: **Oleander (*Nerium oleander*)
+2025-05-07 03:31:34,489 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 03:31:34,490 - main - INFO - Using Unsplash fallback API for plant: **Oleander (*Nerium oleander*)
+2025-05-07 03:31:34,694 - main - INFO - Found Unsplash image for **Oleander (*Nerium oleander*)
+2025-05-07 03:31:34,695 - main - INFO - Fetching image for plant: ** Bougainvillea (*Bougainvillea* spp.)
+2025-05-07 03:31:35,177 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 03:31:35,178 - main - INFO - Using Unsplash fallback API for plant: ** Bougainvillea (*Bougainvillea* spp.)
+2025-05-07 03:31:35,974 - main - INFO - Found Unsplash image for ** Bougainvillea (*Bougainvillea* spp.)
+2025-05-07 03:31:39,318 - main - INFO - Successfully generated 5 plant suggestions
+2025-05-07 03:41:58,965 - main - INFO - TFLite model loaded successfully
+2025-05-07 03:41:58,965 - main - INFO - Gemini model initialized successfully
+2025-05-07 03:41:58,969 - main - INFO - Database initialized
+2025-05-07 04:49:13,497 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:49:13,497 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:49:13,501 - main - INFO - Database initialized
+2025-05-07 04:49:59,998 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:49:59,999 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:50:00,002 - main - INFO - Database initialized
+2025-05-07 04:50:23,008 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:50:23,009 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:50:23,011 - main - INFO - Database initialized
+2025-05-07 04:50:43,002 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:50:43,003 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:50:43,006 - main - INFO - Database initialized
+2025-05-07 04:57:31,248 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:57:31,249 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:57:31,252 - main - INFO - Database initialized
+2025-05-07 04:58:08,481 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:58:08,482 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:58:08,485 - main - INFO - Database initialized
+2025-05-07 04:58:30,399 - main - INFO - TFLite model loaded successfully
+2025-05-07 04:58:30,403 - main - INFO - Gemini model initialized successfully
+2025-05-07 04:58:30,407 - main - INFO - Database initialized
+2025-05-07 05:14:28,292 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:14:28,293 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:14:28,296 - main - INFO - Database initialized
+2025-05-07 05:14:50,472 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:14:50,472 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:14:50,475 - main - INFO - Database initialized
+2025-05-07 05:27:55,602 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:27:55,603 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:27:55,605 - main - INFO - Database initialized
+2025-05-07 05:28:40,412 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:28:40,413 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:28:40,415 - main - INFO - Database initialized
+2025-05-07 05:33:11,405 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:33:11,406 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:33:11,408 - main - INFO - Database initialized
+2025-05-07 05:33:26,845 - main - INFO - TFLite model loaded successfully
+2025-05-07 05:33:26,845 - main - INFO - Gemini model initialized successfully
+2025-05-07 05:33:26,847 - main - INFO - Database initialized
+2025-05-07 06:36:45,491 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:36:45,492 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:36:45,498 - main - INFO - Database initialized
+2025-05-07 06:37:11,095 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:37:11,096 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:37:11,101 - main - INFO - Database initialized
+2025-05-07 06:37:33,777 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:37:33,778 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:37:33,782 - main - INFO - Database initialized
+2025-05-07 06:38:34,816 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:38:34,816 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:38:34,819 - main - INFO - Database initialized
+2025-05-07 06:38:59,042 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:38:59,043 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:38:59,046 - main - INFO - Database initialized
+2025-05-07 06:39:20,554 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:39:20,555 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:39:20,557 - main - INFO - Database initialized
+2025-05-07 06:44:41,632 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:44:41,633 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:44:41,636 - main - INFO - Database initialized
+2025-05-07 06:54:02,378 - main - INFO - TFLite model loaded successfully
+2025-05-07 06:54:02,378 - main - INFO - Gemini model initialized successfully
+2025-05-07 06:54:02,380 - main - INFO - Database initialized
+2025-05-07 07:25:23,998 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:25:23,999 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:25:24,002 - main - INFO - Database initialized
+2025-05-07 07:26:07,154 - main - INFO - No EXIF data found in image
+2025-05-07 07:26:07,160 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 07:26:07,168 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 07:26:07,720 - main - WARNING - Weather API returned status code 401
+2025-05-07 07:26:07,721 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 07:26:07,726 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 07:26:12,464 - main - INFO - Got 6 plant recommendations from Gemini
+2025-05-07 07:26:12,465 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 07:26:12,798 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:12,800 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 07:26:13,285 - main - INFO - Found Unsplash image for **Lavender ( *Lavandula angustifolia*)
+2025-05-07 07:26:13,286 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 07:26:13,559 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:13,562 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 07:26:13,864 - main - INFO - Found Unsplash image for **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 07:26:13,866 - main - INFO - Fetching image for plant: **Fuchsia (*Fuchsia* spp.)
+2025-05-07 07:26:14,165 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:14,166 - main - INFO - Using Unsplash fallback API for plant: **Fuchsia (*Fuchsia* spp.)
+2025-05-07 07:26:14,467 - main - INFO - Found Unsplash image for **Fuchsia (*Fuchsia* spp.)
+2025-05-07 07:26:14,468 - main - INFO - Fetching image for plant: **Hosta (*Hosta* spp.)
+2025-05-07 07:26:14,810 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:14,811 - main - INFO - Using Unsplash fallback API for plant: **Hosta (*Hosta* spp.)
+2025-05-07 07:26:15,473 - main - INFO - Found Unsplash image for **Hosta (*Hosta* spp.)
+2025-05-07 07:26:15,474 - main - INFO - Fetching image for plant: **Coleus (*Plectranthus scutellarioides*)
+2025-05-07 07:26:15,784 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:15,785 - main - INFO - Using Unsplash fallback API for plant: **Coleus (*Plectranthus scutellarioides*)
+2025-05-07 07:26:16,462 - main - INFO - Found Unsplash image for **Coleus (*Plectranthus scutellarioides*)
+2025-05-07 07:26:16,463 - main - INFO - Fetching image for plant: **Impatiens (*Impatiens walleriana*)
+2025-05-07 07:26:16,740 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:26:16,741 - main - INFO - Using Unsplash fallback API for plant: **Impatiens (*Impatiens walleriana*)
+2025-05-07 07:26:19,469 - main - ERROR - Error using Unsplash fallback: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-07 07:26:23,405 - main - INFO - Successfully generated 6 plant suggestions
+2025-05-07 07:36:55,074 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:36:55,080 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:36:55,089 - main - INFO - Database initialized
+2025-05-07 07:36:57,332 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:36:57,332 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:36:57,335 - main - INFO - Database initialized
+2025-05-07 07:44:12,714 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:44:12,715 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:44:12,717 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:44:12,720 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:44:12,729 - main - INFO - Database initialized
+2025-05-07 07:44:12,735 - main - INFO - Database initialized
+2025-05-07 07:58:42,693 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:58:42,694 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:58:42,698 - main - INFO - Database initialized
+2025-05-07 07:58:42,733 - main - INFO - TFLite model loaded successfully
+2025-05-07 07:58:42,733 - main - INFO - Gemini model initialized successfully
+2025-05-07 07:58:42,736 - main - INFO - Database initialized
+2025-05-07 07:59:16,444 - main - INFO - No EXIF data found in image
+2025-05-07 07:59:16,445 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 07:59:16,445 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 07:59:16,722 - main - WARNING - Weather API returned status code 401
+2025-05-07 07:59:16,722 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 07:59:16,725 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 07:59:23,213 - main - INFO - Got 7 plant recommendations from Gemini
+2025-05-07 07:59:23,215 - main - INFO - Fetching image for plant: **Lavender (Lavandula angustifolia)**
+2025-05-07 07:59:23,514 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:23,515 - main - INFO - Using Unsplash fallback API for plant: **Lavender (Lavandula angustifolia)**
+2025-05-07 07:59:24,327 - main - INFO - Found Unsplash prefect image for  **Lavender (Lavandula angustifolia)**
+2025-05-07 07:59:24,328 - main - INFO - Fetching image for plant: **Rosemary (Salvia rosmarinus)**
+2025-05-07 07:59:24,599 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:24,600 - main - INFO - Using Unsplash fallback API for plant: **Rosemary (Salvia rosmarinus)**
+2025-05-07 07:59:25,329 - main - INFO - Found Unsplash prefect image for  **Rosemary (Salvia rosmarinus)**
+2025-05-07 07:59:25,329 - main - INFO - Fetching image for plant: **Geranium (Pelargonium spp.)**
+2025-05-07 07:59:25,765 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:25,766 - main - INFO - Using Unsplash fallback API for plant: **Geranium (Pelargonium spp.)**
+2025-05-07 07:59:26,719 - main - INFO - Found Unsplash prefect image for  **Geranium (Pelargonium spp.)**
+2025-05-07 07:59:26,720 - main - INFO - Fetching image for plant: **Fuchsia (Fuchsia spp.)**
+2025-05-07 07:59:27,037 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:27,038 - main - INFO - Using Unsplash fallback API for plant: **Fuchsia (Fuchsia spp.)**
+2025-05-07 07:59:27,687 - main - INFO - Found Unsplash prefect image for  **Fuchsia (Fuchsia spp.)**
+2025-05-07 07:59:27,689 - main - INFO - Fetching image for plant: **Sedum (Sedum spp.)**
+2025-05-07 07:59:27,963 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:27,964 - main - INFO - Using Unsplash fallback API for plant: **Sedum (Sedum spp.)**
+2025-05-07 07:59:28,761 - main - INFO - Found Unsplash prefect image for  **Sedum (Sedum spp.)**
+2025-05-07 07:59:28,762 - main - INFO - Fetching image for plant: **Impatiens (Impatiens walleriana)**
+2025-05-07 07:59:29,049 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:29,050 - main - INFO - Using Unsplash fallback API for plant: **Impatiens (Impatiens walleriana)**
+2025-05-07 07:59:29,820 - main - INFO - Found Unsplash prefect image for  **Impatiens (Impatiens walleriana)**
+2025-05-07 07:59:29,821 - main - INFO - Fetching image for plant: **Trailing Petunia (Petunia × atkinsiana)**
+2025-05-07 07:59:30,311 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 07:59:30,312 - main - INFO - Using Unsplash fallback API for plant: **Trailing Petunia (Petunia × atkinsiana)**
+2025-05-07 07:59:31,053 - main - INFO - Found Unsplash prefect image for  **Trailing Petunia (Petunia × atkinsiana)**
+2025-05-07 07:59:34,248 - main - INFO - Successfully generated 7 plant suggestions
+2025-05-07 08:10:59,490 - main - INFO - No EXIF data found in image
+2025-05-07 08:10:59,491 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 08:10:59,493 - main - INFO - Fetching weather data for coordinates: 12.97, 77.59
+2025-05-07 08:11:01,040 - main - WARNING - Weather API returned status code 401
+2025-05-07 08:11:01,040 - main - WARNING - Weather API error: Weather API error: 401
+2025-05-07 08:11:01,045 - main - INFO - Requesting recommendations from Gemini
+2025-05-07 08:11:06,599 - main - INFO - Got 6 plant recommendations from Gemini
+2025-05-07 08:11:06,600 - main - INFO - Fetching image for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 08:11:07,813 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:07,815 - main - INFO - Using Unsplash fallback API for plant: **Lavender ( *Lavandula angustifolia*)
+2025-05-07 08:11:08,216 - main - INFO - Found Unsplash prefect image for  **Lavender ( *Lavandula angustifolia*)
+2025-05-07 08:11:08,217 - main - INFO - Fetching image for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 08:11:09,170 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:09,172 - main - INFO - Using Unsplash fallback API for plant: **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 08:11:09,782 - main - INFO - Found Unsplash prefect image for  **Rosemary ( *Salvia rosmarinus*)
+2025-05-07 08:11:09,783 - main - INFO - Fetching image for plant: **Geranium ( *Pelargonium* spp.
+2025-05-07 08:11:10,645 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:10,647 - main - INFO - Using Unsplash fallback API for plant: **Geranium ( *Pelargonium* spp.
+2025-05-07 08:11:11,297 - main - INFO - Found Unsplash prefect image for  **Geranium ( *Pelargonium* spp.
+2025-05-07 08:11:11,299 - main - INFO - Fetching image for plant: **Fuchsia ( *Fuchsia* spp.)
+2025-05-07 08:11:12,263 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:12,265 - main - INFO - Using Unsplash fallback API for plant: **Fuchsia ( *Fuchsia* spp.)
+2025-05-07 08:11:14,497 - main - INFO - Found Unsplash prefect image for  **Fuchsia ( *Fuchsia* spp.)
+2025-05-07 08:11:14,498 - main - INFO - Fetching image for plant: **Sedum ( *Sedum* spp.
+2025-05-07 08:11:15,292 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:15,293 - main - INFO - Using Unsplash fallback API for plant: **Sedum ( *Sedum* spp.
+2025-05-07 08:11:16,553 - main - INFO - Found Unsplash prefect image for  **Sedum ( *Sedum* spp.
+2025-05-07 08:11:16,555 - main - INFO - Fetching image for plant: **Trailing petunia ( *Petunia x atkinsiana*)
+2025-05-07 08:11:17,440 - main - ERROR - SerpAPI returned status code 401
+2025-05-07 08:11:17,441 - main - INFO - Using Unsplash fallback API for plant: **Trailing petunia ( *Petunia x atkinsiana*)
+2025-05-07 08:11:18,654 - main - INFO - Found Unsplash prefect image for  **Trailing petunia ( *Petunia x atkinsiana*)
+2025-05-07 08:11:22,355 - main - INFO - Successfully generated 6 plant suggestions
+2025-05-07 09:52:56,569 - main - INFO - TFLite model loaded successfully
+2025-05-07 09:52:56,570 - main - INFO - Gemini model initialized successfully
+2025-05-07 09:52:56,577 - main - INFO - Database initialized
+2025-05-07 09:53:32,302 - main - INFO - TFLite model loaded successfully
+2025-05-07 09:53:32,306 - main - INFO - Gemini model initialized successfully
+2025-05-07 09:53:32,314 - main - INFO - Database initialized
+2025-05-07 09:55:50,279 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 10:11:25,668 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:11:25,669 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:11:25,678 - main - INFO - Database initialized
+2025-05-07 10:11:25,688 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:11:25,689 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:11:25,693 - main - INFO - Database initialized
+2025-05-07 10:12:32,385 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:12:32,386 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:12:32,391 - main - INFO - Database initialized
+2025-05-07 10:12:32,397 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:12:32,397 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:12:32,401 - main - INFO - Database initialized
+2025-05-07 10:13:08,603 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:13:08,604 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:13:08,607 - main - INFO - Database initialized
+2025-05-07 10:13:08,648 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:13:08,649 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:13:08,654 - main - INFO - Database initialized
+2025-05-07 10:13:37,228 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:13:37,229 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:13:37,232 - main - INFO - Database initialized
+2025-05-07 10:13:37,289 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:13:37,290 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:13:37,293 - main - INFO - Database initialized
+2025-05-07 10:14:27,301 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:14:27,304 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:14:27,308 - main - INFO - Database initialized
+2025-05-07 10:14:27,335 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:14:27,337 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:14:27,341 - main - INFO - Database initialized
+2025-05-07 10:15:18,030 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:15:18,032 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:15:18,035 - main - INFO - Database initialized
+2025-05-07 10:15:18,071 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:15:18,071 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:15:18,075 - main - INFO - Database initialized
+2025-05-07 10:17:07,108 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:17:07,110 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:17:07,117 - main - INFO - Database initialized
+2025-05-07 10:17:07,136 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:17:07,142 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:17:07,150 - main - INFO - Database initialized
+2025-05-07 10:18:06,915 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:18:06,915 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:18:06,916 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:18:06,916 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:18:06,920 - main - INFO - Database initialized
+2025-05-07 10:18:06,922 - main - INFO - Database initialized
+2025-05-07 10:18:29,362 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 10:43:49,061 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:43:49,067 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:43:49,081 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:43:49,082 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:43:49,085 - main - INFO - Database initialized
+2025-05-07 10:43:49,087 - main - INFO - Database initialized
+2025-05-07 10:43:59,012 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 10:44:29,221 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 10:54:45,534 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:54:45,536 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:54:45,543 - main - INFO - Database initialized
+2025-05-07 10:54:45,861 - main - INFO - TFLite model loaded successfully
+2025-05-07 10:54:45,862 - main - INFO - Gemini model initialized successfully
+2025-05-07 10:54:45,865 - main - INFO - Database initialized
+2025-05-07 11:01:25,186 - main - ERROR - GOOGLE_API_KEY not set in environment variables
+2025-05-07 11:01:25,192 - main - ERROR - GOOGLE_API_KEY not set in environment variables
+2025-05-07 11:02:19,138 - main - ERROR - GOOGLE_API_KEY not set in environment variables
+2025-05-07 11:02:19,182 - main - ERROR - GOOGLE_API_KEY not set in environment variables
+2025-05-07 11:02:53,863 - main - WARNING - WEATHER_API_KEY not set in environment variables
+2025-05-07 11:02:53,864 - main - WARNING - SERPAPI_KEY not set in environment variables
+2025-05-07 11:02:53,918 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:02:53,920 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:02:53,924 - main - INFO - Database initialized
+2025-05-07 11:02:54,283 - main - WARNING - WEATHER_API_KEY not set in environment variables
+2025-05-07 11:02:54,283 - main - WARNING - SERPAPI_KEY not set in environment variables
+2025-05-07 11:02:54,328 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:02:54,329 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:02:54,333 - main - INFO - Database initialized
+2025-05-07 11:03:56,124 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:03:56,127 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:03:56,133 - main - INFO - Database initialized
+2025-05-07 11:03:56,168 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:03:56,189 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:03:56,196 - main - INFO - Database initialized
+2025-05-07 11:04:24,157 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:04:24,158 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:04:24,162 - main - INFO - Database initialized
+2025-05-07 11:04:24,250 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:04:24,250 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:04:24,254 - main - INFO - Database initialized
+2025-05-07 11:04:43,604 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:04:43,835 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:18:01,738 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:18:01,738 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:18:01,746 - main - INFO - Database initialized
+2025-05-07 11:18:02,311 - main - INFO - TFLite model loaded successfully
+2025-05-07 11:18:02,311 - main - INFO - Gemini model initialized successfully
+2025-05-07 11:18:02,315 - main - INFO - Database initialized
+2025-05-07 11:18:02,407 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:18:03,345 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:18:39,030 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:18:40,252 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:50:56,100 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:50:56,480 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:51:39,086 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:51:39,308 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:51:59,992 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:52:00,322 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 11:52:38,384 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 11:52:39,005 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 12:00:32,834 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 12:00:32,952 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 12:01:18,385 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 12:01:18,452 - main - ERROR - Error fetching weather data: Weather API error: 401
+2025-05-07 12:04:02,310 - main - INFO - Using default coordinates (Bangalore)
+2025-05-07 12:04:02,505 - main - ERROR - Error fetching weather data: Weather API error: 401
